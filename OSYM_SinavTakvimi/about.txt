@@ -1,0 +1,6 @@
+﻿Bu uygulama Harun ÇETİN tarafından geliştirilmiştir.
+Yazılım geliştirmeye ve elektroniğe dair güncel yazılarımı görmek için web sitemi ziyaret edin. 
+Görüş, öneri ve sorularınız için e-posta adresime yazın.
+
+Web: http://www.haruncetin.com.tr
+E-Posta: mailto:harun@haruncetin.com.tr
